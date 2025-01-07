@@ -15,7 +15,7 @@ const Projects = () => {
         </ul>
       ),
       techStack: ["React", "Portfolio", "JavaScript"],
-      githubLink: "https://github.com/mehmoodulhaq570/Protfolio-reactjs.git",
+      githubLink: "https://github.com/AyaHmida/portfolio-react",
       liveLink: "#",
       image: "/images/react-portfolio.png",
     },
